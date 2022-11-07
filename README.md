@@ -15,7 +15,7 @@
   bcrypt, connect-session-sequelize, dotenv, express, express-handlebars, express-session, mysql2, path, sequelize.
   # Usage
   In order to use this app:
-  run npm start.
+  Watch This video https://drive.google.com/file/d/1f5jOKKcVmiWu-blQMgnZTHp-voj4Vy8-/view
   # License
   This project is licensed under the license. 
   This project has no licence.
