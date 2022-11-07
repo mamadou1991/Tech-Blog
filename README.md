@@ -1,5 +1,5 @@
 
- # ${data.title}
+ # Tech-Blog
   https://github.com/mamadou1991/Tech-Blog
   # Description
   This app allows users to create, updates and delete blogs. It also allow them add comments to the blog.
